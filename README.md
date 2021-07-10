@@ -1,5 +1,5 @@
 # Password manager
-> As the title says, this is the password manager with GUI built in Python using built-in module tkinter and cryptography module to store encrypted passwords with your master password on your local machine.
+> Password manager with GUI built in Python using built-in tkinter module and cryptography module to store encrypted passwords with your master password on your local machine.
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -10,27 +10,22 @@
 * [Usage](#usage)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
-* [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
 <!-- * [License](#license) -->
 
 
 ## General Information
-- Provide general information about your project here.
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
-- Why did you undertake it?
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+- The purpose of this project was for me to build clean, minimalistic user interface with tkinter, play with cryptography module and build something as useful as password manager.
+- As it encrypts all informations based on your master password and stores it on your local machines, encrypted, it is very safe place for all your important notes and if you lost your master password, you will loose all of your informations as they will be just a mess of encrypted letters somewehere on your computer.
 
 
 ## Technologies Used
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
+- Python 3.7
+- Python built-in 'tkinter' module
+- Python 'cryptography' module
 
 
 ## Features
-List the ready features here:
 - Awesome feature 1
 - Awesome feature 2
 - Awesome feature 3
@@ -42,9 +37,9 @@ List the ready features here:
 
 
 ## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
-
-Proceed to describe how to install / setup one's local environment / get started with the project.
+To run this project, you need Python 3.x, then run:
+`pip3 install cryptography`
+And that is all.
 
 
 ## Usage
