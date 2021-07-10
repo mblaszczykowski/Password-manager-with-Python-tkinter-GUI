@@ -1,6 +1,5 @@
-# Project Name
-> Outline a brief description of your project.
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+# Password manager
+> As the title says, this is the password manager with GUI built in Python using built-in module tkinter and cryptography module to store encrypted passwords with your master password on your local machine.
 
 ## Table of Contents
 * [General Info](#general-information)
