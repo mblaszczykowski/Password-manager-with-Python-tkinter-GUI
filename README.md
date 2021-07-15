@@ -15,8 +15,8 @@
 <!-- * [Room for Improvement](#room-for-improvement) -->
 
 ## General Information
-- The purpose of this project was for me to build clean, minimalistic user interface with tkinter, play with cryptography module and build something as useful as password manager.
-- As it encrypts all informations based on your master password and stores it on your local machines, encrypted, it is very safe place for all your important notes and if you lost your master password, you will loose all of your informations as they will be just a mess of encrypted letters somewehere on your computer.
+- The purpose of this project was for me to build clean, minimalistic user interface with tkinter, play with cryptography module and build something as useful as password manager. It uses a note text as a place to store your passwords, so you can store there many more things than just your passwords.
+- As it encrypts all informations based on your master password and stores it encrypted on your local machine (in Documents folder), it is very safe place for all your important notes and if you lost your master password, you will loose all of your informations as they will be just a mess of encrypted letters somewehere on your computer.
 
 
 ## Technologies Used
