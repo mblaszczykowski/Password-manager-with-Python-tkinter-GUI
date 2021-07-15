@@ -9,10 +9,10 @@
 * [Setup](#setup)
 * [Usage](#usage)
 * [Project Status](#project-status)
-<!-- * [Room for Improvement](#room-for-improvement) -->
+* [Extra](#extra)
 * [Contact](#contact)
 <!-- * [License](#license) -->
-
+<!-- * [Room for Improvement](#room-for-improvement) -->
 
 ## General Information
 - The purpose of this project was for me to build clean, minimalistic user interface with tkinter, play with cryptography module and build something as useful as password manager.
@@ -64,12 +64,12 @@ To do:
 - Feature to be added 2
 -->
 
+## Extra
+App was only build on MacOS Big Sur, for now I don't even know how it looks on Windows. I am saying this, because when I created an app for Windows and run it on Mac, it looked completely different.
+
 ## Contact
 Feel free to contact me on my website https://mblaszczykowski.pl in "KONTAKT" bookmark, there is my e-mail, but for now website is only in Polish language. I will add English version soon.
 
-
-## Extra
-App was only build on MacOS Big Sur, for now I don't even know how it looks on Windows. I am saying this, because when I created an app for Windows and run it on Mac, it looked completely different.
 <!-- ## License -->
 <!-- This project is open source and available under the [... License](). -->
 
