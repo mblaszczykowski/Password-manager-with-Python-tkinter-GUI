@@ -70,7 +70,7 @@ App was only build on MacOS Big Sur, for now I don't even know how it looks on W
 And in code there are some Polish variable names and comments, and actually for now app is in Polish language, but I will update it.
 
 ## Contact
-Feel free to contact me on my website https://mblaszczykowski.pl in "KONTAKT" bookmark, there is my e-mail, but for now website is only in Polish language. I will add English version soon.
+Feel free to contact me via my mail michvlbbb@gmail.com
 
 <!-- ## License -->
 <!-- This project is open source and available under the [... License](). -->
