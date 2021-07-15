@@ -67,6 +67,8 @@ To do:
 ## Extra
 App was only build on MacOS Big Sur, for now I don't even know how it looks on Windows. I am saying this, because when I created an app for Windows and run it on Mac, it looked completely different.
 
+And in code there are some Polish variable names and comments, and actually for now app is in Polish language, but I will update it.
+
 ## Contact
 Feel free to contact me on my website https://mblaszczykowski.pl in "KONTAKT" bookmark, there is my e-mail, but for now website is only in Polish language. I will add English version soon.
 
