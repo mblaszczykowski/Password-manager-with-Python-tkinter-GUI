@@ -26,10 +26,10 @@
 
 
 ## Features
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
-
+- Creating many accounts with different encryptions based on password to them (you can't restore password if you lost it, and can't log in to account in any different way than using username and password you type in while creating account)
+- Storing encrypted passwords on your local machine, encrypted with your password
+- While being logged in, you can search for specific password/site, passwords are saved in a big note text
+- App creates folder with encrypted data on your disk, in Documents folder
 
 ## Screenshots
 ![Example screenshot](./img/screen1.png)
@@ -39,22 +39,21 @@
 ## Setup
 To run this project, you need Python 3.x, then run:
 `pip3 install cryptography`
-And that is all.
+And that is all you need for building this.
 
 
 ## Usage
-How does one go about using it?
-Provide various use cases and code examples here.
-
-`write-your-code-here`
+After building app, you have to create new account by typing first login and then password.
+If you do so, then log in to your account and add new passwords to that big note text.
+Every time you close the app, passwords are being encrypted and written on your local disk.
+Every time you open the app, you have to log in to decrypt and show your passwords.
 
 
 ## Project Status
-Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
+Project is in progress, I will probably add some extra functionality and fix future bugs.
 
-
+<!--
 ## Room for Improvement
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
 
 Room for improvement:
 - Improvement to be done 1
@@ -63,13 +62,14 @@ Room for improvement:
 To do:
 - Feature to be added 1
 - Feature to be added 2
-
+-->
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+Feel free to contact me on my website https://mblaszczykowski.pl in "KONTAKT" bookmark, there is my e-mail, but for now website is only in Polish language. I will add English version soon.
 
 
-<!-- Optional -->
+## Extra
+App was only build on MacOS Big Sur, for now I don't even know how it looks on Windows. I am saying this, because when I created an app for Windows and run it on Mac, it looked completely different.
 <!-- ## License -->
 <!-- This project is open source and available under the [... License](). -->
 
