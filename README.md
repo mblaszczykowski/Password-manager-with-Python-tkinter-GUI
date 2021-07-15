@@ -27,7 +27,7 @@
 
 ## Features
 - Creating many accounts with different encryptions based on password to them (you can't restore password if you lost it, and can't log in to account in any different way than using username and password you type in while creating account)
-- Storing encrypted passwords on your local machine, encrypted with your password in Documents folder
+- Storing encrypted passwords on your local machine, encrypted with your password
 - While being logged in, you can search for specific password/site, passwords are saved in a big note text
 - App creates folder with encrypted data on your disk, in Documents folder
 
