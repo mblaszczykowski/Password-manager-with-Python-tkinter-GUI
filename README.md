@@ -16,7 +16,7 @@
 
 ## General Information
 - The purpose of this project was for me to build clean, minimalistic user interface with tkinter, play with cryptography module and build something as useful as password manager. It uses a note text as a place to store your passwords, so you can store there many more things than just your passwords.
-- As it encrypts all informations based on your master password and stores it encrypted on your local machine (in Documents folder), it is very safe place for all your important notes and if you lost your master password, you will loose all of your informations as they will be just a mess of encrypted letters somewehere on your computer.
+- As it encrypts all informations based on your master password and stores it encrypted on your local machine, it is very safe place for all your important notes and if you lost your master password, you will loose all of your informations as they will be just a mess of encrypted letters somewehere on your computer.
 
 
 ## Technologies Used
@@ -27,7 +27,7 @@
 
 ## Features
 - Creating many accounts with different encryptions based on password to them (you can't restore password if you lost it, and can't log in to account in any different way than using username and password you type in while creating account)
-- Storing encrypted passwords on your local machine, encrypted with your password
+- Storing encrypted passwords on your local machine, encrypted with your password in Documents folder
 - While being logged in, you can search for specific password/site, passwords are saved in a big note text
 - App creates folder with encrypted data on your disk, in Documents folder
 
