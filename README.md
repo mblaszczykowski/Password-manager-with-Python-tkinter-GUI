@@ -32,7 +32,10 @@
 - App creates folder with encrypted data on your disk, in Documents folder
 
 ## Screenshots
-![Example screenshot](./img_for_readme/screen1.png)
+![Example screenshot1](./img_for_readme/screen1.png)
+![Example screenshot2](./img_for_readme/screen2.png)
+![Example screenshot3](./img_for_readme/screen3.png)
+![Example screenshot4](./img_for_readme/screen4.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
