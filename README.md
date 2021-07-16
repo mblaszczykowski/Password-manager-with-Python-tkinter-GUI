@@ -67,7 +67,7 @@ To do:
 ## Extra
 App was only build on MacOS Big Sur, for now I don't even know how it looks on Windows. I am saying this, because when I created an app for Windows and run it on Mac, it looked completely different.
 
-And in code there are some Polish variable names and comments, and actually for now app is in Polish language, but I will update it.
+And in code there are some Polish variable names and function names, but I will update it.
 
 ## Contact
 Feel free to contact me via my mail michvlbbb@gmail.com
