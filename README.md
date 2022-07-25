@@ -30,6 +30,8 @@
 - Storing encrypted passwords on your local machine, encrypted with your password
 - While being logged in, you can search for specific password/site, passwords are saved in a big note text
 - App creates folder with encrypted data on your disk, in Documents folder
+- Data is automatically saved on exit, you don't have to worry about saving anything manually
+- App is compatible with macOS/Windows/Linux devices (in terms of dealing with saving data on disk etc.)
 
 ## Screenshots
 ![Example screenshot1](./img_for_readme/screen1.png)
